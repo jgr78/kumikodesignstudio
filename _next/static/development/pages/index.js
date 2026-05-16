@@ -894,7 +894,7 @@ function (_React$Component) {
         id: "footermiddle_left"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         id: "footermiddle_text"
-      }, "We collaborate with ambitious brands and people. We\u2019d love to build something great with you ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+      }, "We collaborate with ambitious brands and people. Reach out at: ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
         href: "mailto:kumikodesignstudio.com"
       }, "kumikodesignstudio.com"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         id: "footermiddle_right"
